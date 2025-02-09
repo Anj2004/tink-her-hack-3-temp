@@ -1,14 +1,13 @@
-# [Project Name] 🎯
+# Image processing ML Model 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+## This machine learning model interprets numbers from(0-9) on uploading images.
+### Team Name: NIMIT
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Anjana Dinesh - Naipunnya Institute of Management and Information Technology, Pongam
+
 
 ### Hosted Project Link
 [mention your project hosted project link here]
