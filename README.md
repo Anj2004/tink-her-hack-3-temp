@@ -83,8 +83,8 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/drive/folders/19Qh34HW50WwY67u8XhOP1cSMNx8u-3bF?usp=sharing
+Given above is the recording of uploading the images MNIST images of 7,2 and 6. These are handwritten. You can see the model predicting the right label for each input.
 
 # Additional Demos
 [Add any extra demo materials/links]
